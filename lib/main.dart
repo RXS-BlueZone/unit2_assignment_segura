@@ -11,7 +11,7 @@ class MyMusicApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Unit 2 Assignment - Music Player App',
+      title: 'Unit 3 Assignment - Music Player App',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: MusicPlayerScreen(),
     );
